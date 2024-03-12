@@ -1,5 +1,6 @@
 your favorite number:
-
+14
 your favorite color:
-
+yellow
 your favorite shape:
+diamond
